@@ -1,7 +1,7 @@
 [![profile Header](https://user-images.githubusercontent.com/78768678/203291722-79f749c3-467f-4b18-8036-921624e20cca.png)](https://github.com/techjuggernaut)
 
 <h1 align="center">Hi there, I'm Ugochukwu 👋</h1>
-<h3 align="center">A full-stack web devloper</h3>
+<h3 align="center">A full-stack web developer</h3>
  👀 &nbsp;I love to create solutions using code.
 <br/>
 🙂 &nbsp;I also create tech related content.
@@ -19,7 +19,7 @@
 <a href="https://github.com/ugothedev"><img alt="Ugo's Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugothedev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
 
 
-## Technologies i use:
+## Technologies && tools i use:
 <table>
   <tr>
     <td>
