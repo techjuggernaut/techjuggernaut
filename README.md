@@ -9,7 +9,7 @@
 📫 How to reach me: ugochukwu2705@gmail.com
 <br />
  💞️ &nbsp;Follow me on github to connect with me and get the latest on all my projects.
-<h3>My twitter community </h3>
+<h3>Check out my twitter community: </h3>
 <a href="https://twitter.com/ugothedev">
 <img src="https://img.shields.io/twitter/follow/ugothedev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a> <br />
 
