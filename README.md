@@ -15,8 +15,8 @@
 
 
 ## My Github Stats:
-<a href="http://www.github.com/techjuggernaut"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=techjuggernaut&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/techjuggernaut"><img alt="Ugo's Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techjuggernaut&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+<a href="http://www.github.com/ugothedev"><img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ugothedev&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/ugothedev"><img alt="Ugo's Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugothedev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
 
 
 ## Technologies i use:
@@ -123,7 +123,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techjuggernaut&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ugothedev&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## Connect with me:
 
