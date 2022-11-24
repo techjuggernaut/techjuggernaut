@@ -73,9 +73,9 @@
      <td>      
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+          <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" height="36" alt="Wordpress" />
         </a>
-        <p align="center">Tailwind</p>
+        <p align="center">Wordpress</p>
       </p>
     </td>
     <td>            
