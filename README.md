@@ -72,7 +72,7 @@
     </td>
      <td>      
       <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" height="36" alt="Wordpress" />
         </a>
         <p align="center">Wordpress</p>
@@ -89,7 +89,7 @@
     <td>           
       <p align="center">
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express"/>
         </a>
         <p align="center">ExpressJS</p>
       </p>
@@ -97,8 +97,8 @@
       <td>             
       <p align="center">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-        </a>
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
+       </a>
         <p align="center">MongoDB</p>
       </p>
     </td>
@@ -128,12 +128,12 @@
 ## Connect with me:
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/ugothedev"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ugothedev"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ugothedev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ugothedev"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 <!---
-techjuggernaut/techjuggernaut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ugothedev/ugothedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
