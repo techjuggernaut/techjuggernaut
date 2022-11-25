@@ -70,7 +70,9 @@
         <p align="center">CSS</p>
       </p>
     </td>
-     <td>      
+     </tr>
+     <tr>
+       <td>
       <p align="center">
         <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" height="36" alt="Wordpress" />
@@ -122,11 +124,9 @@
 </table>
 
 
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ugothedev&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 ## Connect with me:
-
 <p align="center">
 <a href = "https://www.linkedin.com/in/ugothedev"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ugothedev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
