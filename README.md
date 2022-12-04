@@ -6,7 +6,7 @@
 <br/>
 🙂 &nbsp;I also create tech related content.
 <br/>
-📫 How to reach me: ugochukwu2705@gmail.com
+📫 How to reach me: <a href="mailto:ugochukwu2705@gmail.com">My email</a>
 <br />
  💞️ &nbsp;Follow me on github to connect with me and get the latest on all my projects.
 <h3>Check out my twitter community: </h3>
