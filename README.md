@@ -123,7 +123,7 @@
   </tr>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ugothedev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ugothedev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 ## Connect with me:
 <p align="center">
