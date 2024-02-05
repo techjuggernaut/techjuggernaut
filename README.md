@@ -1,4 +1,6 @@
-[![profile Header](https://user-images.githubusercontent.com/78768678/203291722-79f749c3-467f-4b18-8036-921624e20cca.png)](https://github.com/techjuggernaut)
+<!---![![profile Header](https://user-images.githubusercontent.com/78768678/203291722-79f749c3-467f-4b18-8036-921624e20cca.png)](https://github.com/techjuggernaut)--->
+![Pfp 2](https://github.com/ugothedev/ugothedev/assets/78768678/57201cdf-86bb-43fe-9672-5cac02db0341)
+
 
 <h1 align="center">Hi there, I'm Ugochukwu 👋🏽</h1>
 <h3 align="center">A full-stack web developer</h3>
@@ -123,7 +125,7 @@
   </tr>
 </table>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ugothedev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+<!---![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ugothedev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)--->
 
 ## Connect with me:
 <p align="center">
